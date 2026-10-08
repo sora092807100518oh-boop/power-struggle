@@ -1,0 +1,167 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1787156827494,
+      "tag": "0000_unique_talisman",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1787156883687,
+      "tag": "0001_confused_shadow_king",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1787157676696,
+      "tag": "0002_loving_terror",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1787177763885,
+      "tag": "0003_uneven_clint_barton",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1787178187428,
+      "tag": "0004_military_jocasta",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1787179500137,
+      "tag": "0005_fluffy_killraven",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1787182824780,
+      "tag": "0006_first_loki",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1787302952248,
+      "tag": "0007_lush_pet_avengers",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "5",
+      "when": 1787305461337,
+      "tag": "0008_fast_pyro",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "5",
+      "when": 1787308966933,
+      "tag": "0009_uneven_leopardon",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "5",
+      "when": 1787315296838,
+      "tag": "0010_dapper_lethal_legion",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "5",
+      "when": 1787322999464,
+      "tag": "0011_sloppy_bulldozer",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "5",
+      "when": 1787327038932,
+      "tag": "0012_naive_maelstrom",
+      "breakpoints": true
+    },
+    {
+      "idx": 13,
+      "version": "5",
+      "when": 1787820676213,
+      "tag": "0013_wakeful_sentinel",
+      "breakpoints": true
+    },
+    {
+      "idx": 14,
+      "version": "5",
+      "when": 1787827194959,
+      "tag": "0014_clumsy_moonstone",
+      "breakpoints": true
+    },
+    {
+      "idx": 15,
+      "version": "5",
+      "when": 1787829797363,
+      "tag": "0015_breezy_wolfpack",
+      "breakpoints": true
+    },
+    {
+      "idx": 16,
+      "version": "5",
+      "when": 1788051734206,
+      "tag": "0016_curly_wallop",
+      "breakpoints": true
+    },
+    {
+      "idx": 17,
+      "version": "5",
+      "when": 1788186862827,
+      "tag": "0017_robust_firebird",
+      "breakpoints": true
+    },
+    {
+      "idx": 18,
+      "version": "5",
+      "when": 1788228458178,
+      "tag": "0018_flat_onslaught",
+      "breakpoints": true
+    },
+    {
+      "idx": 19,
+      "version": "5",
+      "when": 1788386125548,
+      "tag": "0019_flowery_vector",
+      "breakpoints": true
+    },
+    {
+      "idx": 20,
+      "version": "5",
+      "when": 1788394528150,
+      "tag": "0020_cute_bishop",
+      "breakpoints": true
+    },
+    {
+      "idx": 21,
+      "version": "5",
+      "when": 1788581635916,
+      "tag": "0021_modern_carnage",
+      "breakpoints": true
+    },
+    {
+      "idx": 22,
+      "version": "5",
+      "when": 1788741167640,
+      "tag": "0022_mighty_ma_gnuci",
+      "breakpoints": true
+    }
+  ]
+}
